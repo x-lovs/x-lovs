@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**x-lovs/x-lovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=real-value&color=36afdc&style=flat+square&label=henzen" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![](https://i.postimg.cc/rwVr8Sf8/jamaaa.webp)
+
+</div>
+
+<div align="center">
+
+[me](https://github.com/pwretty)⠀[more](https://rentry.co/monsterhunterwiIds)
+  
+</div>
