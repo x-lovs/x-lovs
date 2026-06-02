@@ -6,13 +6,13 @@
 ⠀
 <div align="center">
 
-![](https://github.com/x-lovs/x-lovs/blob/2182681963b9945ebe06ea2fe196034dbe7765d0/IMG_3039.png)
+![](https://github.com/x-lovs/x-lovs/blob/f15d1bf038f98baa971178c7bd1be5f4472340a2/IMG_3109.png)
 
 </div>
 
 <div align="center">
 
-[main](https://github.com/pwretty)⠀⠀⠀⠀[msgs](https://127.atabook.org/)
+[main](https://github.com/pwretty)⠀⠀⠀⠀[ata](https://127.atabook.org/)
 
 [prnscc](https://pronouns.cc/@qlucard)
 
