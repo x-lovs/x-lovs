@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[main](https://github.com/pwretty)⠀⠀⠀⠀[ata](https://127.atabook.org/)
+[main](https://github.com/w6sh)⠀⠀⠀⠀[ata](https://127.atabook.org/)
 
 [prnscc](https://pronouns.cc/@qlucard)
 
