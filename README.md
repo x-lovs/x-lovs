@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=real-value&color=000000&style=flat+square&label=⠀vision+wings⠀" />
+<img src="https://komarev.com/ghpvc/?username=real-value&color=91aedf&style=flat+square&label=hypnotized⠀" />
 
 </div>
 ⠀
 <div align="center">
 
-![](https://github.com/x-lovs/x-lovs/blob/9eab40ddcb9f359567ef61939e1be961d6de6309/IMG_4130.png)
+![](https://github.com/x-lovs/x-lovs/blob/ef8ac26b95ea4ac1d445bdfaf1980ee5355448af/blur_edges%20(5).png)
 
 </div>
 
